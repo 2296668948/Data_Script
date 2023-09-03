@@ -1,2 +1,6 @@
 # Data_Script
 yolo数据的处理方式
+move_name:选择相同名字的文件并进行移动到新的文件夹中
+select_file_cope:随机选取文件夹中的文件并复制到指定文件夹中
+select_file_move:随机选取文件夹中的文件并移动到指定文件夹中
+view_labels:可视化yolo数据集的标签
